@@ -1,8 +1,9 @@
 import './a'
 import './b'
 
-console.log('---index');
+console.log('---other');
 
 import $ from 'jquery'
 
 console.log($);
+
